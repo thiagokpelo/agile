@@ -77,9 +77,9 @@
 	</main>
 
 	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
-	<script src="script/menu.js"></script>
+	<script src="script/menu.min.js"></script>
 	<script src="https://maps.google.com/maps/api/js?sensor=false"></script>
-	<script src="script/unidades.js"></script>
+	<script src="script/unidades.min.js"></script>
 	<script>isMobile();</script>
 	
 </body>

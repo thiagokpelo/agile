@@ -85,7 +85,7 @@
 					<div id="cto_right">
 						<div class="end_right">
 							<h4>Endereço</h4>
-							<p>Av. Santa Catarina, 2479 – Vl. Mascote <br/>CEP: 04378-500 – São Paulo – SP</p>
+							<p>Av. José Giorgi, 301 - Galpão B5 - Granja Viana II<br>CEP: 06707-100 - Cotia - SP</p>
 						</div>
 						<div class="end_right">
 							<h4>Contatos</h4>
@@ -114,9 +114,9 @@
 
 	<!-- SCRIPT GOOGLE MAP -->
 	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
-	<script src="script/menu.js"></script>
+	<script src="script/menu.min.js"></script>
 	<script src="https://maps.google.com/maps/api/js?sensor=false"></script>
-	<script src="script/contato.js"></script>
+	<script src="script/contato.min.js"></script>
 	<script>isMobile();</script>
 
 </body>

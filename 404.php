@@ -71,7 +71,7 @@
 
 	<!-- SCRIPT GOOGLE MAP -->
 	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
-	<script src="script/menu.js"></script>
+	<script src="script/menu.min.js"></script>
 	<script>isMobile();</script>
 
 </body>

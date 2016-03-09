@@ -1,0 +1,20 @@
+<IfModule mod_rewrite.c>
+
+	RewriteEngine On
+
+	ErrorDocument 404 http://agileexpress.com.br/404
+
+	RewriteRule ^quem-somos/?$ quem-somos.php [NC,L]
+	RewriteRule ^tecnologia/?$ tecnologia.php [NC,L]
+	RewriteRule ^rodoviario/?$ rodoviario.php [NC,L]
+	RewriteRule ^aereo/?$ aereo.php [NC,L]
+	RewriteRule ^logistica/?$ logistica.php [NC,L]
+	RewriteRule ^servicos/?$ servicos.php [NC,L]
+	RewriteRule ^gerenciamento-de-risco/?$ gerenciamento-de-risco.php [NC,L]
+	RewriteRule ^nossa-equipe/?$ nossa-equipe.php [NC,L]
+	RewriteRule ^unidades/?$ unidades.php [NC,L]
+	RewriteRule ^contato/?$ contato.php [NC,L]
+	RewriteRule ^trabalhe-conosco/?$ trabalhe-conosco.php [NC,L]
+	RewriteRule ^404/?$ 404.php [NC,L]
+
+</IfModule>
