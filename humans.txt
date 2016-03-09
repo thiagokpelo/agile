@@ -1,0 +1,28 @@
+/* TEAM */
+	
+	Studio: Agencia Kpelo
+	Twitter: @agenciakpelo
+	From: Guarulhos, SP, Brasil
+
+	Designer: Diogo Capelo
+	E-mail: diogo@kpelo.com.br
+	From: Guarulhos, SP, Brasil
+
+	Developer: Thiago Capelo
+	Twitter: @thiagocapelo
+	From: Guarulhos, SP, Brasil
+
+
+/* THANKS */
+
+	Names: Valdemir, Said.
+		
+
+/* SITE */
+
+	Last Update: 2015/01
+	Language: Português Brasil
+	Doctype: HTML5
+	Standards: HTML5, CSS3, JAVASCRIPT, PHP
+	Components: JQuery
+	IDE: Sublime Text, FileZilla, Photoshop
